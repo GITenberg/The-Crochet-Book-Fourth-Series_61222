@@ -1,0 +1,29 @@
+_repo: The-Crochet-Book-Fourth-Series_61222
+_version: 0.0.1
+alternative_title: Mdlle. Riego's Crochet Book. Fourth Series
+creator:
+  author:
+    agent_name: Riego de la Branchardière, Eléonore
+    aliases:
+    - Branchardiere, Eleonore Riego de la
+    - La Branchardière, Eléonore Riego de
+    - De la Branchardière, Eléonore Riego
+    - Branchardière, Eléonore Riego de la
+    - Riego de la Branchardière, Mlle.
+    gutenberg_agent_id: '33346'
+    url: http://www.gutenberg.org/2009/agents/33346
+description: ''
+gutenberg_issued: '2020-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crocheting -- Patterns'
+- !lcc 'TT'
+- GITenberg
+title: The Crochet Book, Fourth Series
+url: http://www.gutenberg.org/ebooks/61222
